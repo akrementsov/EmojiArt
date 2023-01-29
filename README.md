@@ -93,10 +93,6 @@ Emoji Art is a complete app that covers many approaches like Document Architectu
 
 ### Mac
  <table>
-  <tr align="center">
-    <td>Some Mac behaviour</td>
-    <td>Some Mac behaviour</td>
-  </tr>
   <tr align= "center">
     <td width="500"><img src="Gifs/mac01.gif"></td>
     <td width="500"><img src="Gifs/mac02.gif"></td>
